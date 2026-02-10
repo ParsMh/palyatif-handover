@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Palyatif handover web app deployed via GitHub Pages.",
   "private": true,
+    "homepage": "https://parsMh.github.io/palyatif-handover",
+
   "scripts": {
     "start": "react-scripts start",
+    
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
